@@ -30,8 +30,8 @@
   }
   
   .player {
-    width: 480px;
-    height: 320px;
+    width: 1920px;
+    height: 1080px;
   }
   
   .player-name {
@@ -46,9 +46,9 @@
     margin-top: 10px;
   }
   
-  @media (max-width: 640px) {
+  @media (max-width: 1920px) {
     .player {
-      width: 320px;
-      height: 240px;
+      width: 1920px;
+      height: 1080px;
     }
   }
